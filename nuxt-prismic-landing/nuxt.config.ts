@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     }
   },
 
-  modules: ['@nuxt/eslint', '@nuxtjs/prismic'],
+  modules: ['@nuxt/eslint', '@nuxtjs/prismic', '@nuxtjs/tailwindcss'],
 
   prismic: {
     endpoint: apiEndpoint || repositoryName,
