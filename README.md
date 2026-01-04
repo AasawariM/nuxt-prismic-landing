@@ -15,3 +15,11 @@ for adding tailwind css using nuxt module
 
 https://tailwindcss.nuxtjs.org/
 
+
+
+for using nuxt fonts in our project
+
+https://fonts.nuxt.com/
+
+
+
